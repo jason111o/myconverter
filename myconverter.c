@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
     if (argc < 2)
     {
         printf("\n\033[01;37mConvert passed in arguments to ASCII and HEXADECIMAL\n");
-        printf("Usage: converter [ARGS|INPUT]...\033[0m\n\n");
+        printf("Usage: converter [ARG1] [ARG2] ...\033[0m\n\n");
         return 1;
     }
     //iterate through arguments
