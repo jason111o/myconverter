@@ -1,3 +1,3 @@
 # myconverter
-Simple c program to pass in arguments and convert them to ascii and hexadecimal from the command line
+Simple c program to pass in arguments and convert them to ascii and hexadecimal from the command line\n
 Usage: ./converter [ARG1] [ARG2] ...
