@@ -1,3 +1,7 @@
+// Created by: Jason Pippin
+// during the course of cs50 Intruduction to Computer Science 2019
+// version 1.0
+
 #include <stdio.h>
 #include <string.h>
 
